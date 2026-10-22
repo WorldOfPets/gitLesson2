@@ -1,0 +1,1 @@
+PASSWORD_DATBASE = "your_password_from_db"
